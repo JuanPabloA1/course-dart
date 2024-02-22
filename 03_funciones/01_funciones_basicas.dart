@@ -4,6 +4,7 @@ void main(List<String> args) {
 
   print(message);
   print(greeting());
+  greetingWithVoid();
   print(funtionReturntoNumber());
 
 }
