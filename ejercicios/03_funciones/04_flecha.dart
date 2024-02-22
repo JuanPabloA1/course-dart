@@ -13,6 +13,7 @@ void main(List<String> args) {
   var newListLambda = list.where( (n) => n > 4);
 
   print(result);
+  print(result2);
   print(newList);
   print(newListLambda);
   /**
