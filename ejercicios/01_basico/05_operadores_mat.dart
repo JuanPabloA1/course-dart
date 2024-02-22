@@ -12,5 +12,7 @@ main () {
   b = -b; // -expr Es usado para cambiar el valor de la expr
 
   int c = 10 ~/ 3; // ~/ 3 Division comun y corriente sin decimales.
-  
+
+  print(b);
+  print(c);
 }
