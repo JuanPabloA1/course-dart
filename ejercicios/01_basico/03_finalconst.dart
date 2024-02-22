@@ -8,6 +8,10 @@ main () {
 
   a = 20;
 
+  print(a);
+  print(b);
+  print(c);
+
   // The reserved word 'late' it allow assigned 
   // the value in other moment without import it 
   // have final the variable.
