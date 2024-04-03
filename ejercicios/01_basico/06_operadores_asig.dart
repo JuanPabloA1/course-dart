@@ -6,7 +6,7 @@ main () {
   int? b;
 
   b ??= 20; // Asigna el valor unicamente si la variable es null
-  int d = b ?? a; // Indica que si b es nulo asigne el valor de a
+  late int d = b ?? a; // Indica que si b es nulo asigne el valor de a
 
   print(a);
   print(b);
